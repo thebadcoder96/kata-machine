@@ -1,5 +1,5 @@
-## Developed live on twitch
-[ThePrimeagen](https://twitch.tv/ThePrimeagen)
+## The Last Algorithms Course You'll Need
+By[ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
 ## Naming
 ### Lig-Machine
